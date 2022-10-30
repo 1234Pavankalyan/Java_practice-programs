@@ -1,3 +1,4 @@
+write a program to print a alphabet by using if-else condition
 import java.util.scanner;
 class Alphabet {
   public static void main(String args[]) {
