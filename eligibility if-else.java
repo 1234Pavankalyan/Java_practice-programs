@@ -30,7 +30,7 @@
                as=sc.nextInt();
                System.out.println("enter marks mf");
                mf=sc.nextInt();
-               System.out.println("enter marks c20");
+               System.out.println("enter marks c2);
                c20=sc.nextInt();
                sum=as+mf+c20;
                per=((as*100)/sum+(mf*100)/sum+(c20*100)/sum);
